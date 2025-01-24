@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ghufron Bagaskara🔥</h1>
+
 <h3 align="center">I am a driven individual with a strong passion for continuous learning and personal growth.</h3>
-
+<!-- 
 - 🌱 I’m currently learning **Jetpack Compose and XML**
-
+<!-- 
 - 💬 Wondering about my experience? **www.linkedin.com/in/ghufronbagas**
-
+<!-- 
 - 📫 How to reach me **ghufronbagaskara08@gmail.com**
-
+<!-- 
 - ⚡ Fun fact **I have a strong interest in coding!**
-
+-->
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ghufronbagas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghufronbagas" height="30" width="40" /></a>

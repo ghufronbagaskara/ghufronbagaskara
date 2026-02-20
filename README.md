@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ghufron Bagaskara</h1>
+<h1 align="center">Hi, I'm Ghufron Bagaskara👨🏻‍💻</h1>
 
 <p align="center">
 CS @UB | Backend Developer | DevOps & CI/CD Enthusiast
@@ -35,7 +35,7 @@ I am passionate about building reliable backend systems, improving development w
 ---
 
 ## 🧠 Tech Stack
-###
+
 
 <div align="center">
 
@@ -122,7 +122,7 @@ I am passionate about building reliable backend systems, improving development w
 
 
 ---
-
+## 🔥 Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ghufronbagaskara&theme=darcula" />
 </div>
